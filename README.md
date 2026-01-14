@@ -36,5 +36,3 @@ This project demonstrates clean UI design, proper layout constraints, and basic 
 This project is for **educational and practice purposes only**.
 
 
-## 📂 Project Structure
-
